@@ -1,0 +1,9 @@
+BOT_TOKEN = "8126154546:AAG6n9eUfFTwa8LNyqJDUHcWM8x4cJS8Ono"
+CHANNEL_ID = "@south_Korea_taxi"
+ADMIN_ID = 56076738
+SUPPORTED_CITIES = ["Сеул", "Ансан", "Пусан", "Инчхон", "Аэропорт Инчхон"]
+URGENT_RADIUS_KM = 20  # Радиус для срочных заказов
+ALLOW_MANUAL_CITY = True  # Разрешить ручной ввод города
+ALLOW_MANUAL_BRAND = True  # Разрешить ручной ввод марки авто
+PAYMENT_DETAILS = "JEONBUK BANK(전북은행): 9100051823992"
+ADMIN_CONTACTS = "@azmat_korea, @azamat4on"
